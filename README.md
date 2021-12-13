@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @midorikaye
-- 👀 I’m interested in data mining, machine learning and data virtualization
+- 👀 I’m interested in data mining, machine learning and data vitualization
 - 🌱 I’m currently learning machine learning and Python
 
 <!---
