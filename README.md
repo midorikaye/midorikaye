@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @midorikaye
+- 👋 Hi, I’m @kaye
 - 👀 I’m interested in data mining, machine learning and data vitualization
 - 🌱 I’m currently learning machine learning and Python
 
